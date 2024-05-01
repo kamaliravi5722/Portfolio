@@ -5,21 +5,21 @@ import {motion,useScroll,useSpring,useTransform} from "framer-motion";
 const items = [
     {
         id:1,
-        title:"ecommerce",
-        img:"https://images.pexels.com/photos/18176651/pexels-photo-18176651/free-photo-of-fisherman-on-fishing-boat-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
-        desc:"blablabla"
+        title:"E-Commerce Website",
+        img:"/ecom.png",
+        desc:"Designed and developed a modern e-commerce platform leveraging HTML, CSS, and JavaScript to ensure a visually appealing and user-friendly interface. Implemented dynamic features and interactivity using JavaScript to enhance user experience and facilitate seamless navigation. Utilized Django, a robust web framework, to build a scalable and secure backend, enabling efficient management of products, orders, and user accounts."
     },
     {
         id:3,
-        title:"My own Gallary",
-        img:"https://images.pexels.com/photos/19988878/pexels-photo-19988878/free-photo-of-washington-dc.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
-        desc:"blablabla"
+        title:"SQL Translator",
+        img:"https://img.freepik.com/premium-photo/cloud-server-illustration-cloud-computing-technology-concept-dark-background-data-concept-generative-ai_812892-472.jpg?size=626&ext=jpg&ga=GA1.1.817067359.1702230456&semt=sph",
+        desc:"Developed a SQL translator tool leveraging npm (Node Package Manager) for package management and Node.js for server-side JavaScript execution. This project enables users to seamlessly convert SQL queries from one dialect to another, enhancing interoperability across different database systems. Implemented robust parsing and translation algorithms to accurately interpret SQL syntax and generate equivalent queries in the desired dialect. Utilized npm packages such as sql-parser and sql-formatter for efficient parsing and formatting of SQL queries, ensuring high performance and maintainability of the translator tool."
     },
     {
         id:3,
-        title:"My fav Music",
-        img:"https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=600",
-        desc:"blablabla"
+        title:"My Playlist",
+        img:"https://t4.ftcdn.net/jpg/07/78/83/41/240_F_778834120_Bz5eMLT5zWCp76KuJ9b1n5YRS9Vh1B9K.jpg",
+        desc:"Designed and developed a dynamic music website offering a seamless platform for music enthusiasts to explore, discover, and enjoy their favorite tunes. Leveraged modern web technologies such as HTML5, CSS3, JavaScript, and React.js to create an engaging user interface with responsive design, ensuring optimal viewing experience across devices. Integrated robust backend systems powered by Django or Node.js to manage user accounts, playlists, and music metadata efficiently, providing personalized recommendations and content delivery. Implemented features such as music streaming, search functionality, artist profiles, and social sharing to enrich user experience and foster community engagement. "
     }
 ];
 
